@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">ApiAskPermissions</string>
+
+    <!-- MainFragment -->
+    <string name="request_permissions">Request permissions</string>
+    <string name="advice">Advice</string>
+    <string name="allow_permissions">Allow permissions</string>
+    <string name="agree_location_permissions_for_best_app_behavior">Agree location permissions for best app behavior.</string>
+    <string name="the_app_needs_the_location_permissions_allowed_for_continue">This app needs the location  permissions allowed for fetch your location.</string>
+    <string name="permissions_allowed">Permissions allowed</string>
+    <!-- MainFragment -->
+    
 </resources>
